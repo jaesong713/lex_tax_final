@@ -1,3 +1,6 @@
+# Welcome! 
+Please refer to the final.docx
+
 ## 1 ~ 4 
 will be in the 1 ~ 4 folder within the lexer.java file
 ## 5 - 8 
