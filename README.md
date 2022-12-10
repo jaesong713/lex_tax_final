@@ -27,3 +27,12 @@ Will be in the number10 folder in a power point form!
  - <data_type> -> ger | oat | string | car | bool
  - <bool_value> -> 'true' | 'false'
  - <end> -> `hahaha`
+
+ ```
+ All statements within the code must be on the left hand side with the exception of 
+ <start> 
+ <block>
+ <funky>
+ <ha_stmt>
+ <during_stmt>
+  ```
